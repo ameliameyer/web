@@ -4,13 +4,13 @@ description: A blog about lorem ipsum dolor sit amet
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "https://ameliameyer.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 # User settings
-username: 
-user_description:
-user_title: 
-email: 
-twitter_username: 
-github_username: 
-gplus_username:  
+username: Amelia Meyer
+user_description: I am a fourth-year Statistisc and Data Science major at UC Santa Barbara. 
+user_title: Data Scientist
+email: ameliameyer@ucsb.edu 
+twitter_username: ameliameyer
+github_username: ameliameyer
+gplus_username:  ameliameyer
 
 # Google-analytics
 google-analytics:
