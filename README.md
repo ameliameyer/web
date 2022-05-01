@@ -1,6 +1,6 @@
 # Using Particle Jekyll Theme
 
-<img src="assets/img/favicon.ico" alt="Girl in a jacket" width="500" height="600">
+<img src="assets/img/favicon.ico" alt="Girl in a jacket" width="500" height="500">
 
 ## Site and User Settings
 
