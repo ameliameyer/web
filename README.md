@@ -1,7 +1,5 @@
 # Using Particle Jekyll Theme
 
-<img src="assets/img/favicon.ico" alt="Girl in a jacket" width="500" height="500">
-
 ## Site and User Settings
 
 You have to fill some informations on `_config.yml` to customize your site.
