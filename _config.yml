@@ -1,13 +1,13 @@
 # Site settings
 title: Amelia Meyer
-description: A blog about lorem ipsum dolor sit amet
+description: My data science portfolio
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "https://ameliameyer.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+# url: "https://ameliameyer.github.io/home" # the base hostname & protocol for your site 
 # User settings
 username: Amelia Meyer
-user_description: I am a fourth-year Statistisc and Data Science major at UC Santa Barbara. 
+user_description: I graduated in June of 2022 with a B.S. in Statistics and Data Science, and a Minor in German.  
 user_title: Data Science & Machine Learning 
-email: ameliameyer@ucsb.edu 
+email: amelianmeyer@gmail.com 
 twitter_username: ameliameyer
 github_username: ameliameyer
 gplus_username:  ameliameyer
